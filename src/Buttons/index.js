@@ -7,7 +7,7 @@ const Buttons = ({ tasks, hideDoneTasks }) => (
                 <>
                     <button
                         className="section__header--button">
-                        {hideDoneTasks ? "Pokaż" : "Ukryj"}
+                        {hideDoneTasks ? "Pokaż " : "Ukryj "}
                         ukończone
                     </button>
                     <button

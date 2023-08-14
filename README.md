@@ -1,3 +1,20 @@
+# Demo 
+https://jernejdamian.github.io/Todo-list-react/
+# Tools&Technologes
+- HTML
+- CSS
+- JavaScript
+- Normalize CSS
+- BEM convention
+- Flex / Grid
+- JavaScript XML
+- React App
+- WebPack
+- Babel
+- Styled Components
+- Custom Hooks
+- Local Storage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
